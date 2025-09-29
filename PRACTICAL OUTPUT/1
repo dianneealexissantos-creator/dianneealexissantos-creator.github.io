@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dyan Santos - Portfolio</title>
+</head>
+<body>
+  <header>
+    <h1>Dyan Santos</h1>
+    <p>Multimedia • Digital Film • Animation</p>
+    <nav>
+      <a href="#about">About Me</a> |
+      <a href="#projects">Projects</a> |
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>Hello! I’m <strong>Dyan Santos</strong>, a student specializing in 
+         <strong>Multimedia, major in Digital Film and Animation</strong> with a focus on front-end technologies. 
+         I have a passion for combining innovation, creativity, beauty, and storytelling in art.</p>
+
+      <h3>Areas of Interest</h3>
+      <ul>
+        <li>Visual Arts (Painting, Graphic Design, Sculpture)</li>
+        <li>Performing Arts (Theatre, Stage Plays, Choreography, Performances)</li>
+      </ul>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <table border="1" cellpadding="5">
+        <thead>
+          <tr>
+            <th>Project Name</th>
+            <th>Specialty</th>
+            <th>Role</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Poster & Logo Series</td>
+            <td>Graphic Design</td>
+            <td>Designer</td>
+          </tr>
+          <tr>
+            <td>Acrylic & Mixed Media Works</td>
+            <td>Painting</td>
+            <td>Artist</td>
+          </tr>
+          <tr>
+            <td>Stage Play Production</td>
+            <td>Theatre & Performance</td>
+            <td>Performer / Designer</td>
+          </tr>
+        </tbody>
+      </table>
+      
+      <h3>Project Spotlight: Arts and Design</h3>
+      <p>This project was built to showcase my capability and passion in 
+         <strong>Visual Arts</strong> (painting, graphic design, sculpture) and 
+         <strong>Performing Arts</strong> (theatre, stage choreography, and performances).</p>
+      <p>View the live projects (placeholder link): 
+         <a href="http://www.example.com/artworks" target="_blank">Arts in the Making</a></p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:dyan.santos@example.com">dyan.santos@example.com</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/dyansantos" target="_blank">/in/dyansantos</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Dyan Santos. All rights reserved.</p>
+  </footer>
+</body>
+</html>
