@@ -28,7 +28,7 @@
             <img src="Dyan.jpeg" alt="Me" style="float: right; border: 6px solid lavenderblush; border-radius: 12px; margin: 0px 30px 50px 30px; width: 300px; height: 400px;">
             <article>
                 <h2 style="text-align: left;">Dyan Alexis S. Santos</h2>
-                <pre style="text-align: left; padding-top: 20px;">Greetings! </pre>
+                <pre style="text-align: left; padding-top: 20px;">Greetings! Here's a quick tour of my works and experiences as a Multimedia student. </pre>
                 <hr>
                 <p style="text-align: justify; text-indent: 30px; padding: 10px 40px 30px 40px;"> I’m <strong>Dyan Santos</strong>, a student specializing in 
          <strong>Multimedia, major in Digital Film and Animation</strong> focusing on front-end technologies. I have a passion for combining innovation, creativity, beauty, and storytelling in art.</p>
@@ -40,12 +40,15 @@
             <tr>
               <th>Comission Artist</th>
               <th>Freelance Graphic Artist</th>
+              <img src="graphic design"> 
+              <img src="painting">
       
             </tr>
             <tr style="text-align: center;">
                 <td>Perfromer and Production Designer</td>
                 <td>Theatre and Performing Arts</td>
             </tr>
+            <img src="dance">
             <tr style="text-align: center;">
                 <td>FEU-TECH</td>
                 <td>2016 - Present</td>
