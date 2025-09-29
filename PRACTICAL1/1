@@ -41,14 +41,16 @@
               
               <th>Comission Artist</th>
               <th>Freelance Graphic Artist</th>
-              <img src="graphic design"> 
-              <img src="painting">
+              <img src="graphic design.jpeg"> 
+              <img src="painting.jpeg">
       
             </tr>
             <tr style="text-align: center;">
                 <td>Perfromer and Production Designer</td>
                 <td>Theatre and Performing Arts</td> 
             </tr>
+            <img src="dance.jpeg">
+            
             
             <tr style="text-align: center;">
                 <td>FEU-TECH</td>
@@ -76,15 +78,6 @@
                 <td>2024 - Present</td>
             </tr>
         </table>
-        </section>
-              </main>
-                   <h3>Project Spotlight: Arts and Design</h3>
-      <p>This project was built to showcase my capability and passion in 
-         <strong>Visual Arts</strong> (painting, graphic design, sculpture) and 
-         <strong>Performing Arts</strong> (theatre, stage choreography, and performances).</p>
-      <p>View the live projects (placeholder link): 
-         <a href="http://www.example.com/artworks" target="_blank">Arts in the Making</a></p>
-    </section>
 
     <section id="contact">
       <h2>Contact</h2>
