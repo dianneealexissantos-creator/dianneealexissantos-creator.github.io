@@ -41,14 +41,16 @@
               
               <th>Comission Artist</th>
               <th>Freelance Graphic Artist</th>
-              <img src="graphic design"> 
-              <img src="painting">
+              <img src="graphic design.jpeg"> 
+              <img src="painting.jpeg">
       
             </tr>
             <tr style="text-align: center;">
                 <td>Perfromer and Production Designer</td>
                 <td>Theatre and Performing Arts</td> 
             </tr>
+            <img src="dance.jpeg">
+            
             
             <tr style="text-align: center;">
                 <td>FEU-TECH</td>
