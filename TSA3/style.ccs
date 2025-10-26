@@ -1,0 +1,75 @@
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+}
+
+/* Header Styling */
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Main Content Styling */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Paragraphs with different fonts and colors */
+.paragraph1 {
+    font-family: 'Georgia', serif;
+    color: #333333;
+}
+
+.paragraph2 {
+    font-family: 'Verdana', sans-serif;
+    color: #555555;
+}
+
+/* List Styling */
+.custom-list {
+    list-style-type: square;
+    padding-left: 20px;
+    color: #4CAF50;
+    line-height: 1.8;
+}
+
+/* Image Styling */
+.styled-image {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #4CAF50;
+    border-radius: 10px;
+    width: 300px;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+}
+
+/* Layout Rules */
+main, header, footer {
+    padding: 20px; /* padding rule */
+}
+
+main {
+    margin: 20px; /* margin rule */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* flexbox alignment */
+}
